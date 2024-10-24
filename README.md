@@ -5,7 +5,7 @@
 - [ ] differenceBy
 - [ ] differenceWith
 - [x] drop
-- [ ] dropRight
+- [x] dropRight
 - [ ] dropRightWhile
 - [ ] dropWhile
 - [ ] fill
