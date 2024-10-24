@@ -6,7 +6,7 @@
 - [ ] differenceWith
 - [x] drop
 - [x] dropRight
-- [ ] dropRightWhile
+- [x] dropRightWhile
 - [ ] dropWhile
 - [ ] fill
 - [ ] findIndex
@@ -62,3 +62,4 @@
 - [ ] zipObject
 - [ ] zipObjectDeep
 - [ ] zipWith
+- [x] identity
